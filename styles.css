@@ -29,6 +29,7 @@ body{
     border-radius: 10px;
     padding:25px 27px;
     padding-bottom: 5px;
+    box-shadow: 30px 30px 20px rgba(0, 0, 0, 0.152);
 }
 
 .card2{
